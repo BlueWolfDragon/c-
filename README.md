@@ -1,1 +1,1 @@
-Algunos programas de c++, para el que lepueda interesar
+Algunos programas de c++, para el que le interese
